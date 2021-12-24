@@ -324,20 +324,20 @@ Publish the website in the given URL.
 
 ### Home Page:
 
-![output](./images/ty.png)
+![output](ty.png)
 
 
 ### Product page:
 
-![output](./images/product.png)
+![output](product.png)
 
 ### people page:
 
-![output](./images/qw.png)
+![output](qw.png)
 
 ### contact page:
 
-![output](./images/re.png)
+![output](re.png)
 
 ## Result:
 
